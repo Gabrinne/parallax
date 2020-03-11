@@ -1,0 +1,10 @@
+@font-face {
+   font-family: "Thimberly";
+   src: url("Thimberly.woff2");
+}
+
+h1 {
+    background-color: red;
+    font-size: 6em;
+    font-family: "Thimberly";
+}
